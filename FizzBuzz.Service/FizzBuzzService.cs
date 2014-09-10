@@ -36,7 +36,7 @@ namespace FizzBuzz.Service
         public void OnTimer(object sender, System.Timers.ElapsedEventArgs args)
         {
             // TODO: Insert monitoring activities here.
-            eventLog1.WriteEntry("Monitoring the System", EventLogEntryType.Information, eventId++);
+            eventLog1.WriteEntry("Running running running :)", EventLogEntryType.Information, eventId++);
         }
 
         protected override void OnStart(string[] args)
