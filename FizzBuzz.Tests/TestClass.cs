@@ -18,7 +18,7 @@ namespace FizzBuzz.Tests
         [Test]
         public void Test2()
         {
-            Assert.IsTrue(true);
+            Assert.IsTrue(false);
         }
     }
 }
