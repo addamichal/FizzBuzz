@@ -10,10 +10,7 @@ namespace FizzBuzz.Runner
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello world");
-            Console.WriteLine("Hello hello");
-            Console.WriteLine("hello hello hello");
-            Console.WriteLine("work");
+            Console.WriteLine("starting over!");
         }
     }
 }
