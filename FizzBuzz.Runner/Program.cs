@@ -13,6 +13,7 @@ namespace FizzBuzz.Runner
             Console.WriteLine("hello world");
             Console.WriteLine("Hello hello");
             Console.WriteLine("hello hello hello");
+            Console.WriteLine("work");
         }
     }
 }
